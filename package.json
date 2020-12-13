@@ -1,8 +1,12 @@
 {
   "name": "codeshift_postcss",
+  "license": "GPL-3.0-or-later",
   "dependencies": {
     "@babel/core": "^7.12.9",
     "@babel/preset-env": "^7.12.7",
     "jscodeshift": "^0.11.0"
+  },
+  "devDependencies": {
+    "prettier": "^2.2.1"
   }
 }
